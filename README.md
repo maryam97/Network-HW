@@ -1,6 +1,6 @@
 # Network-HW
 ## A web service for medical services
-### Just run the server and client.py and see the options:
+Just run the server and client.py and see the options:
 1) Register as pharmacy or doctor or patient
 2) Login
 3) Pharmacy can receive a patient receipt
